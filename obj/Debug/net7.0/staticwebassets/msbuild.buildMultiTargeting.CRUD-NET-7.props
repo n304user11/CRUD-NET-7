@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD-NET-7.props" />
+</Project>
